@@ -74,16 +74,13 @@
 
 ###
 
-<table align="center">
-  <tr>
-    <td><img src="assets/nika.jpeg" width="200"></td>
-    <td><img src="assets/friends.jpeg" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/molly.jpeg" width="200"></td>
-    <td><img src="assets/churru.jpeg" width="200"></td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="assets/churru.jpeg" width="200" />
+  <img src="assets/molly.jpeg" width="200" />
+  <img src="assets/friends.jpeg" width="200" />
+  <img src="assets/nika.jpeg" width="200" />
+</div>
+
 
 
 ###
