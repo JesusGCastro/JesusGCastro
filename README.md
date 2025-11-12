@@ -74,20 +74,16 @@
 
 ###
 
-<img align="left" height="200" src="assets/churru.jpeg"  />
+<table align="center">
+  <tr>
+    <td><img src="assets/nika.jpeg" width="200"></td>
+    <td><img src="assets/friends.jpeg" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/molly.jpeg" width="200"></td>
+    <td><img src="assets/churru.jpeg" width="200"></td>
+  </tr>
+</table>
 
-###
-
-<img align="right" height="150" src="assets/friends.jpeg"  />
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="assets/nika.jpeg"  />
-
-###
-
-<img align="left" height="150" src="assets/molly.jpeg"  />
 
 ###
