@@ -74,20 +74,20 @@
 
 ###
 
-<img align="left" height="200" src=""  />
+<img align="left" height="200" src="assets/churru.jpeg"  />
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="assets/friends.jpeg"  />
 
 ###
 
 <br clear="both">
 
-<img align="right" height="200" src=""  />
+<img align="right" height="200" src="assets/nika.jpeg"  />
 
 ###
 
-<img align="left" height="150" src=""  />
+<img align="left" height="150" src="assets/molly.jpeg"  />
 
 ###
